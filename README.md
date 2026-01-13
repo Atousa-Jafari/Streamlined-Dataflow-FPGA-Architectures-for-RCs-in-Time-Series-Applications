@@ -1,0 +1,1 @@
+# Streamlined-Dataflow-FPGA-Architectures-for-RCs-in-Time-Series-Applications
