@@ -16,13 +16,13 @@ It is the first quantized streamline Reservoir Computing (RC), in particular, Ec
 - **Machine learning utilities**
   - **scikit-learn**
 
-- **Reservoir Computing Framework
+- **Reservoir Computing Framework**
   - **ReservoirPy**
 
-- **Quantization & deep learning 
+- **Quantization & deep learning** 
   - **torch**
   - **brevitas**
 
-- **Model export & inference 
+- **Model export & inference** 
   - **onnx**
   - **onnxruntime**
