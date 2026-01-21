@@ -5,7 +5,7 @@ It is the first quantized streamline Reservoir Computing (RC), in particular, Ec
 
 ## **Prerequisites**
 
-- **Python 3.9+** (recommended)
+- **Python 3.9+**
 
 - **Core scientific libraries**
   - **numpy**
@@ -16,13 +16,13 @@ It is the first quantized streamline Reservoir Computing (RC), in particular, Ec
 - **Machine learning utilities**
   - **scikit-learn**
 
-- **Reservoir Computing (if applicable)**
+- **Reservoir Computing 
   - **reservoirpy**
 
-- **Quantization & deep learning (optional)**
+- **Quantization & deep learning 
   - **torch**
   - **brevitas**
 
-- **Model export & inference (optional)**
+- **Model export & inference 
   - **onnx**
   - **onnxruntime**
